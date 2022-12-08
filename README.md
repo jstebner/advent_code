@@ -6,3 +6,4 @@ https://adventofcode.com/
 
 ## favorites:
   - [day 5](https://github.com/jstebner/advent_code/tree/master/day5)
+  - [day 5](https://github.com/jstebner/advent_code/tree/master/day8)
